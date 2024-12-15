@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/cooking-books/static/css/main.600bff5f.css",
-    "main.js": "/cooking-books/static/js/main.e9bd3b35.js",
+    "main.css": "/cooking-books/static/css/main.c81f01f8.css",
+    "main.js": "/cooking-books/static/js/main.2a9315a5.js",
     "static/js/453.ed3810f9.chunk.js": "/cooking-books/static/js/453.ed3810f9.chunk.js",
+    "static/media/TheHunterChef.jpg": "/cooking-books/static/media/TheHunterChef.327883ff2ec8a09330e4.jpg",
     "static/media/DishoomImage.jpg": "/cooking-books/static/media/DishoomImage.352615c76b184061dacd.jpg",
+    "static/media/Tartine.jpg": "/cooking-books/static/media/Tartine.2466cb48dd867fab31f0.jpg",
+    "static/media/TheFrenchLaundry.jpg": "/cooking-books/static/media/TheFrenchLaundry.65ada474038fe22e2834.jpg",
     "index.html": "/cooking-books/index.html",
-    "main.600bff5f.css.map": "/cooking-books/static/css/main.600bff5f.css.map",
-    "main.e9bd3b35.js.map": "/cooking-books/static/js/main.e9bd3b35.js.map",
+    "main.c81f01f8.css.map": "/cooking-books/static/css/main.c81f01f8.css.map",
+    "main.2a9315a5.js.map": "/cooking-books/static/js/main.2a9315a5.js.map",
     "453.ed3810f9.chunk.js.map": "/cooking-books/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.600bff5f.css",
-    "static/js/main.e9bd3b35.js"
+    "static/css/main.c81f01f8.css",
+    "static/js/main.2a9315a5.js"
   ]
 }

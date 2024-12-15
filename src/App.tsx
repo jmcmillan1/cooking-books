@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          This is a react app where Josh will host his cookbook reviewing blog someday
         </p>
         <a
           className="App-link"
